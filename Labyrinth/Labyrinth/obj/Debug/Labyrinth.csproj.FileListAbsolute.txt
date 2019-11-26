@@ -1,0 +1,8 @@
+C:\Users\Phil.Kennaugh\source\repos\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+C:\Users\Phil.Kennaugh\source\repos\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+C:\Users\Phil.Kennaugh\source\repos\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+C:\Users\Phil.Kennaugh\source\repos\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojAssemblyReference.cache
+C:\Users\Phil.Kennaugh\source\repos\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+C:\Users\Phil.Kennaugh\source\repos\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.cache
+C:\Users\Phil.Kennaugh\source\repos\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+C:\Users\Phil.Kennaugh\source\repos\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
